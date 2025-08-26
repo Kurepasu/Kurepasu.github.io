@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Background by AI
-img: "assets/img/thumbnails/background-by-AI.jpg"
+img: "assets/img/thumbnails/portfolio/background-by-AI.jpg"
 date: 2023-06-28
 tags: [산예]
 ---

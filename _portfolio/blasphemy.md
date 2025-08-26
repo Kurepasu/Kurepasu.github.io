@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blasphemy
-img: "assets/img/thumbnails/blasphemy.png"
+img: "assets/img/thumbnails/portfolio/blasphemy.png"
 date: 2024-06-25
 tags: [2차,SD]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Follow
-img: "assets/img/thumbnails/follow.jpg"
+img: "assets/img/thumbnails/portfolio/follow.jpg"
 date: 2022-04-23
 tags: [무명]
 ---

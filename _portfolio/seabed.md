@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seabed
-img: "assets/img/thumbnails/seabed.png"
+img: "assets/img/thumbnails/portfolio/seabed.png"
 date: 2024-06-25
 tags: [2차,SD]
 ---

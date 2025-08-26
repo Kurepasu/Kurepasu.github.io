@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listener
-img: "assets/img/thumbnails/listener.jpg"
+img: "assets/img/thumbnails/portfolio/listener.jpg"
 date: 2024-9-28
 tags: [이삭]
 ---

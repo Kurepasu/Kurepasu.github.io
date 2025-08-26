@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flame
-img: "assets/img/thumbnails/flame.jpg"
+img: "assets/img/thumbnails/portfolio/flame.jpg"
 date: 2022-05-26
 tags: [한라]
 ---

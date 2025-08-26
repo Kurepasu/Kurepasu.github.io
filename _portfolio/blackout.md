@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blackout
-img: "assets/img/thumbnails/blackout.jpg"
+img: "assets/img/thumbnails/portfolio/blackout.jpg"
 date: 2025-01-21
 tags: [이삭,SD]
 ---

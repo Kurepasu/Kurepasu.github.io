@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hand
-img: "assets/img/thumbnails/hand.jpg"
+img: "assets/img/thumbnails/portfolio/hand.jpg"
 date: 2025-04-13
 tags: [이삭]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jouou
-img: "assets/img/thumbnails/jouou.png"
+img: "assets/img/thumbnails/portfolio/jouou.png"
 date: 2025-05-20
 tags: [홍금, 모작]
 ---

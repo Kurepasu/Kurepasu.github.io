@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fairy
-img: "assets/img/thumbnails/fairy.jpg"
+img: "assets/img/thumbnails/portfolio/fairy.jpg"
 date: 2022-09-13
 tags: [2차,SD]
 ---

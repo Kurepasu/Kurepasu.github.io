@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lizard
-img: "assets/img/thumbnails/lizard.jpg"
+img: "assets/img/thumbnails/portfolio/lizard.jpg"
 date: 2022-01-20
 tags: [무명]
 ---

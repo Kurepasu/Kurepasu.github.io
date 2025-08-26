@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Dream
-img: "assets/img/thumbnails/bad-dream.jpg"
+img: "assets/img/thumbnails/portfolio/bad-dream.jpg"
 date: 2024-10-28
 tags: [악야]
 ---
