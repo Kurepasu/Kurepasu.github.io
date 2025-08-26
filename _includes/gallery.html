@@ -6,17 +6,29 @@ html { overflow-y: scroll; }
 /* article {padding:2%;} */
 </style>
 
+<!-- 갤러리 이미지 -->
 <div id='masonry' class="grid">
-<div class="grid-sizer"></div>
-<div class="gutter-sizer"></div>
-{% for image in site.static_files %}
-  {% if image.path contains include.gallery_path %}
-    {% unless image.path contains '.md' %}
+  <div class="grid-sizer"></div>
+  <div class="gutter-sizer"></div>
+  {% for image in site.static_files %}
+    {% if image.path contains include.gallery_path %}
+      {% unless image.path contains '.md' %}
         <img src="{{ image.path | relative_url }}" alt="" class="grid-item" style="padding: 0;">
-    {% endunless %}
-  {% endif %}
-{% endfor %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
 </div>
 
+<!-- 이미지 모달 창 -->
+<div id="myImageModal" class="image-modal">
+  <span class="close-button">&times;</span>
+  <button class="nav-button prev-button" onclick="showPrevImage()">&#10094;</button>
+  <img class="image-modal-content" id="modalImage">
+  <button class="nav-button next-button" onclick="showNextImage()">&#10095;</button>
+</div>
+
+<!-- JavaScript 코드 -->
 <script src="{{ '/assets/js/vendor/imagesloaded.pkgd.min.js' | relative_url }}" type="text/javascript"></script>
 <script src="{{ '/assets/js/vendor/masonry.pkgd.min.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/assets/js/modal.js' | relative_url }}" type="text/javascript"></script>
+

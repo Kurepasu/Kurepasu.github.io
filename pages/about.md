@@ -2,13 +2,55 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+# feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
+position: 2
 ---
+<br/>
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+**About 페이지에 오신 것을 환영합니다.**  <br/>
+그러나 안타깝게도 *이곳에서는 이렇다 할 소개 글을 찾아보기 어렵다*는 소식을 전해드려야 할 것 같습니다. 이게 전부 말주변 없는 제 탓이니- 정보조차 불분명한 이 페이지를 즐겨주시기 바라겠습니다. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+
+<br/>
+
+**질문1. 자기소개 부탁드립니다.**
+
+> 취미로 그림을 그리고 있습니다. 제대로 배운 적이 없어서 매번 레이어 사이에 머리 들이밀고 고민하는 시간이 더 길기는 합니다. 점심으로는 파스타를 먹었습니다. 감사합니다. 
+
+<br/>
+
+
+**질문2. 페이지를 개설하신 목적이 무엇입니까.**
+
+> 제 그림 보관함입니다. 그냥 대기업 SNS나 가입하면 편할 것을. 이것저것 관리하거나 이런저런 광고가 보기 싫다는 이유로- 보시는 바와 같이 고생하고 있습니다. 
+
+<br/>
+
+**질문3. 어떤 그림을 그리십니까.**
+
+> 캐릭터 일러스트. 아직 대갈치기 수준에서 크게 벗어나지 못합니다. 뭐. 그리다 보면 늘겠지. [^1]
+
+<br/>
+
+**질문4. 그림을 그릴 때 무엇을 가장 중요하게 생각하십니까.**
+
+> ...? 잘생긴 얼굴? 
+
+<br/>
+
+**질문5. 마지막으로 하고 싶은 말씀이 있습니까.**
+
+> 냅다 자기소개하기는 어색해서 Q&A형식으로 적어보았는데, 여전히 이렇다 할만한 내용은 없군요. 그래도 마지막 질문에 대한 답변 길이가 어느정도 나와야 페이지 보기가 예쁠 것 같아서 아무말 길게 썼습니다. 전혀 의미 없었지만 아무튼 간에 끝까지 읽으시느라 수고 많으셨습니다. 
+
+<br/>
+<br/>
+
+[^2]
  
+
+[^1]: 
+    {% include citation.html key="ipad" %}
+
+[^2]: <a href="https://www.flaticon.com/free-icons/crayons" title="crayons icons">Crayons icons created by Freepik - Flaticon</a>
